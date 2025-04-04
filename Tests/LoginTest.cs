@@ -5,7 +5,6 @@ using Serilog;
 using saucedemo.Pages;
 using FluentAssertions;
 using OpenQA.Selenium.Edge;
-using OpenQA.Selenium.BiDi.Communication;
 
 namespace saucedemo.Tests
 {
